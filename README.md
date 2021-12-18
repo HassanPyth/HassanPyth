@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HassanPyth
-- 👀 I’m interested in Programing with Java..
+- 👀 I’m interested in Programing with Java & Python
 - 🌱 I’m currently learning Java
 - 📫 Jattcute41@gmail.com
 
